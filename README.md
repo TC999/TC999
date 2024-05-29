@@ -22,9 +22,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&theme=dark&locale=CN)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&theme=dark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-# 个人原创/修改的仓库
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zhihu-full-show&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 个人原创/修改的仓库
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese&theme=dark)](https://github.com/TC999/Structura-Chinese)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zhihu-full-show&theme=dark)](https://github.com/TC999/zhihu-full-show)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple&theme=dark)](https://github.com/TC999/DA-simple)
 
-# 贡献仓库
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 贡献仓库
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=dark)](https://github.com/maboloshi/github-chinese)
+## 互联网存档仓库
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zxdnb-archive&theme=dark)](https://github.com/TC999/zxdnb-archive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive&theme=dark)](https://github.com/TC999/mcbbs-archive)
