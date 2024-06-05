@@ -29,6 +29,8 @@
 
 ## 贡献仓库
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=dark)](https://github.com/maboloshi/github-chinese)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onuratakan&repo=gpt-computer-assistant&theme=dark)](https://github.com/onuratakan/gpt-computer-assistant)
+
 ## 互联网存档仓库
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zxdnb-archive&theme=dark)](https://github.com/TC999/zxdnb-archive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive&theme=dark)](https://github.com/TC999/mcbbs-archive)
