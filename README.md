@@ -68,7 +68,7 @@
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=onuratakan&repo=gpt-computer-assistant">
 </picture>
 </a>
-<a href="https://github.com/maboloshi/github-chinese">
+<a href="https://github.com/BewlyBewly/BewlyBewly">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=BewlyBewly&repo=BewlyBewly&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=BewlyBewly&repo=BewlyBewly">
