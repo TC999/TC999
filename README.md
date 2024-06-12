@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese">
 </picture>
 </a>
-<a href="https://github.com/maboloshi/github-chinese">
+<a href="https://github.com/TC999/zhihu-full-show">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zhihu-full-show&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zhihu-full-show">
