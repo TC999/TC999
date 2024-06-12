@@ -1,14 +1,4 @@
-<!-- 按钮 -->
-<div>
-    <button onclick="showContent('content1')">简体中文</button>
-    <button onclick="showContent('content2')">繁體中文</button>
-    <button onclick="showContent('content3')">日本語</button>
-    <button onclick="showContent('content4')">ENGLISH</button>
-</div>
-
-<!-- 内容区域 -->
-<div id="content1" style="display:none;">
-    <h2>简体中文</h2>
+### Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/TC999?label=%E5%85%B3%E6%B3%A8%E8%80%85)
 ![GitHub User's stars](https://img.shields.io/github/stars/TC999?style=flat&logo=github&label=%E6%80%BB%E6%98%9F%E6%A0%87%E6%95%B0)
@@ -102,52 +92,3 @@
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive">
 </picture>
 </a>
-</div>
-
-<div id="content2" style="display:none;">
-    <h2>繁體中文</h2>
-
-![GitHub followers](https://img.shields.io/github/followers/TC999?label=%E5%85%B3%E6%B3%A8%E8%80%85)
-![GitHub User's stars](https://img.shields.io/github/stars/TC999?style=flat&logo=github&label=%E6%80%BB%E6%98%9F%E6%A0%87%E6%95%B0)
-
-
-<a href="https://www.youtube.com/@ctan7038">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://t.me/barnamenevisiadmin/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://space.bilibili.com/648765401">
-<img src="https://img.shields.io/badge/bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white">
-</a>
-
-<p></p>
-<p align="justify">
-歡迎來到我的 GitHub 頁面。我是 TC999
-</p>
-</div>
-
-<div id="content3" style="display:none;">
-    <h2>日本語</h2>
-    <p>読み込み中……</p>
-</div>
-
-<div id="content4" style="display:none;">
-    <h2>ENGLISH</h2>
-    <p>Coming soon……</p>
-</div>
-
-
-<script>
-// JavaScript 部分用于处理内容的显示和隐藏
-function showContent(id) {
-    // 隐藏所有内容
-    var contents = document.querySelectorAll('div[id^="content"]');
-    contents.forEach(function(content) {
-        content.style.display = 'none';
-    });
-
-    // 显示指定的内容
-    document.getElementById(id).style.display = 'block';
-}
-</script>
