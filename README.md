@@ -21,8 +21,8 @@
 
 ## 编程语言和使用的工具
 ### 使用编程语言
-| Python3 | JS |TypeScript|
-|----------|----------|--------|
+| Python3 | JavaScript |TypeScript|
+|----------|--------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="55" height="55"/>|
 
 ### 开发环境及测试环境
