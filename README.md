@@ -19,6 +19,24 @@
 欢迎来到我的 GitHub 页面。我是 TC999
 </p>
 
+## 编程语言和使用的工具
+### 使用编程语言
+| Python3 | JS |TypeScript|
+|----------|----------|--------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="55" height="55"/>|
+
+### 开发环境及测试环境
+| Git | VS Code | Nodejs | VM Ware | Chrome | FireFox |
+|-----|---------|--------|---------|--------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="vmware-icon.svg" title="VM Ware" alt="vmware" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="firefox" width="55" height="55"/>|
+
+### 操作系统
+| Windows | Ubuntu | Arch Linux | Android |
+|---------|--------|------------|---------|
+| <img src="https://github.com/dev icons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="ArchLinux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55" height="55"/> |
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&theme=dark&locale=CN">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&locale=CN">
