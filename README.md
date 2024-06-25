@@ -16,7 +16,7 @@
 
 <p></p>
 <p align="justify">
-欢迎来到我的 GitHub 页面。我是 TC999
+欢迎来到我的 GitHub 页面。我是 TC999，编程小白
 </p>
 
 ## 编程语言和使用的工具
@@ -93,6 +93,13 @@
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=BewlyBewly&repo=BewlyBewly">
 </picture>
 </a>
+<a href="https://github.com/deadlyjack/Acode">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deadlyjack&repo=Acode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deadlyjack&repo=Acode">
+  <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=deadlyjack&repo=Acode">
+</picture>
+</a>
 
 ## 互联网存档仓库
 
@@ -108,5 +115,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive">
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=mcbbs-archive">
+</picture>
+</a>
+<a href="https://github.com/TC999/CHJSL-archive">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=CHJSL-archive&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=CHJSL-archive">
+  <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=CHJSL-archive">
 </picture>
 </a>
