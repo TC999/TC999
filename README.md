@@ -64,11 +64,18 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zhihu-full-show">
 </picture>
 </a>
+<a href="https://github.com/TC999/BDS-World-Selector">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector">
+  <img alt="TC999/BDS-World-Selector" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector">
+</picture>
+</a>
 <a href="https://github.com/TC999/DA-simple">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
-  <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
+  <img alt="TC999/DA-simple" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
 </picture>
 </a>
 
