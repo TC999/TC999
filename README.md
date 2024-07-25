@@ -14,11 +14,9 @@
 <img src="https://img.shields.io/badge/bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white">
 </a>
 
-<p></p>
 <p align="justify">
 欢迎来到我的 GitHub 页面。我是 TC999，编程小白
 </p>
-<p>注：7月9号之前比较繁忙，可能没有时间处理议题或PR</p>
 
 ## 编程语言和使用的工具
 ### 使用编程语言
@@ -76,6 +74,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
   <img alt="TC999/DA-simple" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
+</picture>
+</a>
+<a href="https://github.com/TC999/BewlyBewly-Beta">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
+  <img alt="TC999/BewlyBewly-Beta" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
 </picture>
 </a>
 
