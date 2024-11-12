@@ -76,13 +76,6 @@
   <img alt="TC999/BDS-World-Selector" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector">
 </picture>
 </a>
-<a href="https://github.com/TC999/DA-simple">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
-  <img alt="TC999/DA-simple" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=DA-simple">
-</picture>
-</a>
 <a href="https://github.com/TC999/BewlyBewly-Beta">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta&theme=dark">
