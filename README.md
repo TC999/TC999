@@ -37,14 +37,14 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&hide=java&theme=dark&locale=CN">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&hide=java&locale=CN">
-  <img alt="统计数据" src="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&hide=java&locale=CN">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&theme=dark&locale=CN">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&locale=CN">
+  <img alt="统计数据" src="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&locale=CN">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&theme=dark&locale=cn&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact">
-  <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&theme=dark&locale=cn&layout=compact&hide=java">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=java">
+  <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=java">
 </picture>
 
 ## 个人原创/修改的仓库
