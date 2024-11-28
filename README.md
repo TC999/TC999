@@ -44,7 +44,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&theme=dark&locale=cn&layout=compact&hide=java">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=java">
-  <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=java">
+  <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=javascript,java">
 </picture>
 
 ## 个人原创/修改的仓库
