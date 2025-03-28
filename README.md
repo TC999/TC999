@@ -15,14 +15,16 @@
 </a>
 
 <p align="justify">
-欢迎来到我的 GitHub 页面。我是 TC999，编程小白
+欢迎来到我的 GitHub 页面。我是 TC999，编程小白，软件汉化
 </p>
 
+<!---
 ## 编程语言和使用的工具
 ### 使用编程语言
 | Python3 | JavaScript |TypeScript| C |Rust|
 |----------|--------|--------|--------|-------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="TypeScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/>|
+
 
 ### 开发环境及测试环境
 | Git | VS Code | Nodejs | VM Ware | Chrome | FireFox |
@@ -34,7 +36,7 @@
 |---------|--------|------------|---------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="ArchLinux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55" height="55"/>|
 
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TC999&show_icons=true&theme=dark&locale=CN">
@@ -47,6 +49,66 @@
   <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TC999&locale=cn&layout=compact&hide=javascript,java">
 </picture>
 
+# 自制软件
+
+<a href="https://github.com/TC999/AppDataCleaner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=AppDataCleaner&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=AppDataCleaner">
+  <img alt="AppDataCleaner" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=AppDataCleaner">
+</picture>
+</a>
+<a href="https://github.com/TC999/BDS-World-Selector">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector">
+  <img alt="TC999/BDS-World-Selector" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BDS-World-Selector">
+</picture>
+</a>
+
+# 汉化
+<a href="https://github.com/TC999/Structura-Chinese">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese">
+</picture>
+</a>
+<a href="https://github.com/TC999/niconico-chinese">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=niconico-chinese&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=niconico-chinese">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=niconico-chinese">
+</picture>
+</a>
+<a href="https://github.com/TC999/zed-loc">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zed-loc&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zed-loc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zed-loc">
+</picture>
+</a>
+
+# 长期贡献
+
+<a href="https://github.com/maboloshi/github-chinese">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese">
+  <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese">
+</picture>
+</a>
+
+# 复刻修改
+
+<a href="https://github.com/TC999/BewlyBewly-Beta">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
+  <img alt="TC999/BewlyBewly-Beta" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
+</picture>
+</a>
+<!----
 ## 个人原创/修改的仓库
 <a href="https://github.com/TC999/AppDataCleaner">
 <picture>
@@ -121,6 +183,8 @@
 </picture>
 </a>
 
+-->
+
 ## 互联网存档仓库
 
 <a href="https://github.com/TC999/zxdnb-archive">
@@ -144,3 +208,4 @@
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=CHJSL-archive">
 </picture>
 </a>
+
