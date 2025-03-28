@@ -89,13 +89,20 @@
 </picture>
 </a>
 
-# 长期贡献
+# 长期贡献/协作
 
 <a href="https://github.com/maboloshi/github-chinese">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese">
   <img alt="onuratakan/gpt-computer-assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=maboloshi&repo=github-chinese">
+</picture>
+</a>
+<a href="https://github.com/darkmatter2048/WindowsCleaner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner">
 </picture>
 </a>
 
