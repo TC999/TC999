@@ -106,13 +106,13 @@
 </picture>
 </a>
 
-# 复刻修改
+# 二改
 
-<a href="https://github.com/TC999/BewlyBewly-Beta">
+<a href="https://github.com/TC999/BeriBeri">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
-  <img alt="TC999/BewlyBewly-Beta" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BewlyBewly-Beta">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
+  <img alt="TC999/BeriBeri" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
 </picture>
 </a>
 
