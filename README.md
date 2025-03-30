@@ -66,7 +66,7 @@
 </picture>
 </a>
 
-# 汉化
+# 汉化/二改
 <a href="https://github.com/TC999/Structura-Chinese">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=Structura-Chinese&theme=dark">
@@ -88,6 +88,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=zed-loc">
 </picture>
 </a>
+<a href="https://github.com/TC999/BeriBeri">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
+  <img alt="TC999/BeriBeri" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
+</picture>
+</a>
 
 # 长期贡献/协作
 
@@ -103,16 +110,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner">
-</picture>
-</a>
-
-# 二改
-
-<a href="https://github.com/TC999/BeriBeri">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
-  <img alt="TC999/BeriBeri" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
 </picture>
 </a>
 
