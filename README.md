@@ -112,6 +112,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=WindowsCleaner">
 </picture>
 </a>
+<a href="https://github.com/darkmatter2048/DaYePhotoStudio-2">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=DaYePhotoStudio-2&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=DaYePhotoStudio-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkmatter2048&repo=DaYePhotoStudio-2">
+</picture>
+</a>
 
 <!----
 ## 个人原创/修改的仓库
