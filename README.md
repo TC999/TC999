@@ -95,6 +95,20 @@
   <img alt="TC999/BeriBeri" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=BeriBeri">
 </picture>
 </a>
+<a href="https://github.com/TC999/deepwiki-chinese">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=deepwiki-chinese&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=deepwiki-chinese">
+  <img alt="TC999/deepwiki-chinese" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=deepwiki-chinese">
+</picture>
+</a>
+<a href="https://github.com/TC999/ghidra-chinese">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=ghidra-chinese&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=ghidra-chinese">
+  <img alt="TC999/ghidra-chinese" src="https://github-readme-stats.vercel.app/api/pin/?username=TC999&repo=ghidra-chinese">
+</picture>
+</a>
 
 # 长期贡献/协作
 
